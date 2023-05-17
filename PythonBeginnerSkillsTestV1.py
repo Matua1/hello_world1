@@ -17,6 +17,10 @@
 # output: 5
 def absolute_value(n):
     # your code here
+    def get_absolute_value(x):
+    return abs(x)
+
+get_absolute_value(x)
 
 # Question 2:
 # Write a function that takes a string as an argument and returns the string with the first and last characters removed.
